@@ -1,2 +1,0 @@
-,patient_id,left or right breast,image view,pathology,image file path,cropped image file path,ROI mask file path,class,local_image
-5,P_00008,LEFT,MLO,BENIGN_WITHOUT_CALLBACK,CBIS-DDSM/Calc-Training_P_00008_LEFT_MLO/08-07-2016-DDSM-28663/1-full mammogram images-97907/000000.dcm,CBIS-DDSM/Calc-Training_P_00008_LEFT_MLO_1/09-06-2017-DDSM-26786/1-ROI mask images-46864/000000.dcm,CBIS-DDSM/Calc-Training_P_00008_LEFT_MLO_1/09-06-2017-DDSM-26786/1-ROI mask images-46864/000001.dcm,0,97907.dcm
